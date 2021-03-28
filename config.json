@@ -2,4 +2,11 @@
   "token": "ODIzODA5Njg3MTc4ODM4MDE2.YFmOjw.4eFLu4T3ij7b9EAQh0MhwXnYOec",
   "prefix": "...",
   "ownerId": "484795267699441704:
+  "bugReportChannelId": "bug_report_channel_ID_here",
+  "feedbackChannelId": "feedback_channel_ID_here",
+  "serverLogId": "server_log_ID_here",
+  "apiKeys": {
+    "catApi": "your_API_key_here",
+    "googleApi": "your_API_key_here"
+  }
 }
