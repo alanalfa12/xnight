@@ -1,5 +1,6 @@
 const config = require('./config.json');
 const Client = require('./src/Client.js');
+require("./uptime.js");
 global.__basedir = __dirname;
 
 // setup
